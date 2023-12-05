@@ -26,7 +26,9 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Medicosurvelliance"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="Application designed to streamline medical data collection and surveillance.The
+              project serves as a user-friendly interface for healthcare personnel to input and
+              access critical medical data."
               ghLink="https://medicosurveillance1310.netlify.app/"
               demoLink="https://medicosurveillance1310.netlify.app/"
             />
@@ -37,7 +39,9 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="React Ecommerce"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="This project gives details of shopping website in ecommerce field. This project
+              demonstrates strong skills in HTML for structuring content, Tailwind CSS for
+              styling, and React JS for interactivity."
               ghLink="https://rioo15.github.io/Ecommerce/"
               demoLink="https://rioo15.github.io/Ecommerce/"
             />
@@ -48,7 +52,9 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Real Estate React"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              description="The project serves as a user-friendly interface consisting of land and the
+              buildings on it. This project demonstrates strong skills in HTML for structuring
+              content, Tailwind CSS for styling, and React JS for interactivity."
               ghLink="https://rioo15.github.io/real-estate-react/"
               demoLink="https://rioo15.github.io/real-estate-react/"              
             />
@@ -59,7 +65,7 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Moshify"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              description="I was able to achieve an accuracy of 98% by using colone Of Moshify in building the responsive website using HTML, CSS and Java Script."
               ghLink="https://responsive7410.netlify.app/"
               demoLink="https://responsive7410.netlify.app/"
             />
@@ -70,7 +76,7 @@ function Projects() {
               imgPath={suicide}
               isBlog={false}
               title="Text Utils"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+              description="Supports dark mode and easy to write use Text Utils using markdown.."
               ghLink="https://rioo15.github.io/ReactCourse/"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
@@ -81,7 +87,7 @@ function Projects() {
               imgPath={emotion}
               isBlog={false}
               title="Education"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
+              description=" The highest accuracy obtained with the model was 60.1%.
               Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
               ghLink="https://education7410.netlify.app/"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
